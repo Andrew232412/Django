@@ -1,1 +1,2 @@
-
+def news():
+    return None
